@@ -49,3 +49,5 @@ If nRF Logger application is not installed on the device those methods does noth
 (7) You may also mark a session with one of 6 symbols.
 
     Logger.setSessionMark(mLogSession, Logger.MARK_FLAG_RED);
+
+# "key" = 928eyy289
